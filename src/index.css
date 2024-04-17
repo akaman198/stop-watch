@@ -2,7 +2,23 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   background-color: lightslategray;
+  min-height: 100vh;
+  font-family: monospace;
+  font-weight: bold;
+}
+.watch-container{
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 5px solid black;
+  border-radius: 50px;
+  background-color: rgba(46, 42, 42, 0.338);
+  padding: 30px;
+  font-size: 2rem;
+
 }
 .stopwatch{
   display: flex;
@@ -15,8 +31,6 @@ body{
 }
 .display{
   font-size: 5rem;
-  font-family: monospace;
-  font-weight: bold;
   color: rgb(0, 0, 0);
   text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
   margin-bottom: 25px;
