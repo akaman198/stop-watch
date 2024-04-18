@@ -1,4 +1,4 @@
-# React Stopwatch App
+# Stopwatch App
 
 This is a simple stopwatch application built using React.js, HTML, and CSS.
 
@@ -11,6 +11,8 @@ This is a simple stopwatch application built using React.js, HTML, and CSS.
 
 ## Screenshots
 
+   ![Stop Watch App Screenshot](https://github.com/akaman198/stop-watch/blob/master/src/assets/StopWatch.png)
+   
 ## Installation
 
 1. Clone the repository:
