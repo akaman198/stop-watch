@@ -70,4 +70,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 5. Submit a pull request.
 
-Feel free to customize this template according to your specific project details and preferences!
+
